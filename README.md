@@ -22,6 +22,6 @@
 ## 📫 How to Reach Me
 - 📧 Email: venkat163455@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: https://yourname.github.io
+- 🌐 Portfolio: [https://venkat163455-max.github.io](https://github.com/venkat163455-max)
 
 ✨ I love turning designs into interactive, real-world web experiences.
