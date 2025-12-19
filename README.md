@@ -1,14 +1,27 @@
 
-# Hi, I'm Venkat Rao B 👋
-** UI / Frontend Developer* — Html/Css • Javascript • Bootstrap • Tailewind Css • React • Photoshop • Figma • AdobeXd • REST API
+## Hi, I'm Venkat Rao 👋
+** I’m a UI / Frontend Developer with experience in building responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and React.
+   I enjoy creating smooth UI animations and interactive web experiences.
 
+ ## 🛠️ Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap, Tailwind CSS
+- React.js
+- CSS Animations & Responsive Design
+- Git & GitHub
+- Photoshop, AI, Figma, AdobeXd to HTML
+
+## 🚀 Currently Working On
+- 🔭 UI Virtual Events projects using Html, Css, Bootstrap & JavaScript
+- 🌱 Improving React component performance
+- 🔭 Building interactive frontend demos
+- 👯 I’m looking to collaborate on frontend projects using HTML, CSS, Bootstrap, and JavaScript.”
 - 🔭 I’m currently working on UI/Frontend Developer
 - 🌱 I’m currently learning reactjs and nextjs
-- 👯 I’m looking to collaborate on frontend projects using HTML, CSS, Bootstrap, and JavaScript.”
-- 🤔 I’m looking for help with React best practices and scalable frontend architecture.
-- 💬 Ask me about frontend development, responsive design, and CSS
-- 📫 How to reach me: venkat163455@gmail.com
+- 
+## 📫 How to Reach Me
+- 📧 Email: venkat163455@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 🌐 Portfolio: https://yourname.github.io
 
-Tech
-HTML/CSS, JavaScript, Bootstrap, Tailewind Css, REST API, React
-
+✨ I love turning designs into interactive, real-world web experiences.
