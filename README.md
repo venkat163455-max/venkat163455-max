@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**venkat163455-max/venkat163455-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Venkat Rao B 👋
+** UI / Frontend Developer* — Html/Css • Javascript • Bootstrap • Tailewind Css • React • Photoshop • Figma • AdobeXd • REST API
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on UI/Frontend Developer
+- 🌱 I’m currently learning reactjs and nextjs
+- 👯 I’m looking to collaborate on frontend projects using HTML, CSS, Bootstrap, and JavaScript.”
+- 🤔 I’m looking for help with React best practices and scalable frontend architecture.
+- 💬 Ask me about frontend development, responsive design, and CSS
+- 📫 How to reach me: venkat163455@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech
+HTML/CSS, JavaScript, Bootstrap, Tailewind Css, REST API, React
+
